@@ -1,0 +1,1 @@
+# Jest_nuxt3_sample
